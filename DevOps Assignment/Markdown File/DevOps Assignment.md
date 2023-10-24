@@ -1,35 +1,33 @@
 ﻿## **DevOps MCQ**
-1\. What does WSL stand for in the context of Windows?
+## 1\. What does WSL stand for in the context of Windows?
 
-    **Answer: c. Windows Subsystem for Linux**
+## ***Answer: C. Windows Subsystem for Linux***
 
-    Rationale: WSL, denoting Windows Subsystem for Linux, serves as a compatibility layer within Windows, enabling the native execution of Linux applications.
+   Rationale: WSL, denoting Windows Subsystem for Linux, serves as a compatibility layer within Windows, enabling the native execution of Linux applications.
 
-2\. What is the primary objective of continuous integration (CI) in DevOps?
+## 2\. What is the primary objective of continuous integration (CI) in DevOps?
 
-    **Answer: b. Regularly incorporating code changes**
+## ***Answer: B. Regularly incorporating code changes***
 
-    Rationale: The principal aim of continuous integration (CI) is to consistently integrate code modifications into a shared repository, ensuring that contributions from various developers are frequently integrated and tested.
+   Rationale: The principal aim of continuous integration (CI) is to consistently integrate code modifications into a shared repository, ensuring that contributions from various developers are frequently integrated and tested.
 
-3\. Within the Linux command line, what's the function of the cd command?
+## 3\. Within the Linux command line, what's the function of the cd command?
 
-    **Answer: b. Modifying the current working directory**
+## ***Answer: B. Modifying the current working directory***
 
-    Rationale: The "cd" command, when utilized in the Linux command line, is employed to alter the present working directory, facilitating navigation within the file system.
+   Rationale: The "cd" command, when utilized in the Linux command line, is employed to alter the present working directory, facilitating navigation within the file system.
 
-4\. Which of the options isn't categorized as a Linux distribution?
+## 4\. Which of the options isn't categorized as a Linux distribution?
 
-    **Answer: c. Docker**
+## ***Answer: C. Docker***
 
-    Rationale: Docker does not fall under the category of Linux distributions; instead, it stands as a platform designed for containerization and application deployment. Linux distributions comprise operating systems such as Ubuntu, CentOS, Debian, among others.
+   Rationale: Docker does not fall under the category of Linux distributions; instead, it stands as a platform designed for containerization and application deployment. Linux distributions comprise operating systems such as Ubuntu, CentOS, Debian, among others.
 
-5\. In the context of DevOps and containerization, what is Docker's primary use?
+## 5\. In the context of DevOps and containerization, what is Docker's primary use?
 
-    **Answer: c. Packaging and deploying applications in containers**
+## ***Answer: C. Packaging and deploying applications in containers***
 
-    Rationale: Docker is predominantly employed for packaging applications and their dependencies into containers, streamlining the deployment, management, and scalability of applications within a consistent and isolated environment.
-
-
+   Rationale: Docker is predominantly employed for packaging applications and their dependencies into containers, streamlining the deployment, management, and scalability of applications within a consistent and isolated environment.
 
 
 
@@ -46,35 +44,37 @@
 
 
 
-6\. What is the primary function of Azure DevOps?
 
-    **Answer: b. Facilitating software development and delivery**
 
-    Rationale: Azure DevOps, provided by Microsoft, encompasses a suite of DevOps tools and services, primarily oriented toward supporting the complete software development life cycle, which includes planning, coding, building, testing, and delivery.
+## 6\. What is the primary function of Azure DevOps?
 
-7\. Which components are integral to Azure DevOps?
+## ***Answer: B. Facilitating software development and delivery***
 
-    **Answer: c. Azure Boards and Azure Pipelines**
+   Rationale: Azure DevOps, provided by Microsoft, encompasses a suite of DevOps tools and services, primarily oriented toward supporting the complete software development life cycle, which includes planning, coding, building, testing, and delivery.
 
-    Rationale: Azure DevOps comprises multiple components, with Azure Boards for work item tracking and Azure Pipelines for continuous integration and continuous delivery (CI/CD) being two pivotal elements.
+## 7\. Which components are integral to Azure DevOps?
 
-8\. How does Azure DevOps contribute to version control in software development?
+## ***Answer: C. Azure Boards and Azure Pipelines***
 
-    **Answer: b. Monitoring changes in source code and overseeing version management.**
+   Rationale: Azure DevOps comprises multiple components, with Azure Boards for work item tracking and Azure Pipelines for continuous integration and continuous delivery (CI/CD) being two pivotal elements.
 
-    Rationale: Azure DevOps provides version control tools, such as Azure Repos, which are instrumental in tracking source code changes, managing version history, and promoting collaborative development among team members.
+## 8\. How does Azure DevOps contribute to version control in software development?
 
-9\. What is the primary role of the root user in Linux?
+## ***Answer: B. Monitoring changes in source code and overseeing version management***
 
-    **Answer: c. Carrying out administrative tasks with superuser privileges**
+   Rationale: Azure DevOps provides version control tools, such as Azure Repos, which are instrumental in tracking source code changes, managing version history, and promoting collaborative development among team members.
 
-    Rationale: The root user in Linux is vested with superuser privileges and is entrusted with responsibilities pertaining to administrative tasks, system management, and system-wide alterations.
+## 9\. What is the primary role of the root user in Linux?
 
-10\. In the realm of Azure DevOps, which component is utilized for defining, constructing, testing, and deploying applications?
+## ***Answer: C. Carrying out administrative tasks with superuser privileges***
 
-    **Answer: c. Azure Pipelines**
+   Rationale: The root user in Linux is vested with superuser privileges and is entrusted with responsibilities pertaining to administrative tasks, system management, and system-wide alterations.
 
-    Rationale: In the context of Azure DevOps, Azure Pipelines takes on a central role, being employed to define, construct, test, and deploy applications within a continuous integration and continuous delivery (CI/CD) pipeline, rendering it an indispensable component for software development and deployment in Azure DevOps.
+## 10\. In the realm of Azure DevOps, which component is utilized for defining, constructing, testing, and deploying applications?
+
+## ***Answer: C. Azure Pipelines***
+
+   Rationale: In the context of Azure DevOps, Azure Pipelines takes on a central role, being employed to define, construct, test, and deploy applications within a continuous integration and continuous delivery (CI/CD) pipeline, rendering it an indispensable component for software development and deployment in Azure DevOps.
 ## **DevOps Labs**
 Lab 1: File and Directory Management
 
